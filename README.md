@@ -30,7 +30,8 @@ Make sure you have the following installed:
 
 1. **Clone the Repository** and move into the project directory:
    ```bash
-   git clone <your-repo-url> study-cards
+   git clone git@github.com:Kian-Ashrafganjouei/CardStudyTool.git study-cards
+   git submodule update --init --recursive
    cd study-cards
    ```
 

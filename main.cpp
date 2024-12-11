@@ -98,6 +98,7 @@ int main() {
         
         std::cout << "How did you do? (e = easy +3, h = hard +1, w = wrong 0, q = quit): ";
         std::cin >> userInput;
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
         
         if (userInput == 'q') {
             break;

@@ -31,8 +31,8 @@ Make sure you have the following installed:
 1. **Clone the Repository** and move into the project directory:
    ```bash
    git clone git@github.com:Kian-Ashrafganjouei/CardStudyTool.git study-cards
-   git submodule update --init --recursive
    cd study-cards
+   git submodule update --init --recursive
    ```
 
 2. **Build the Project** using the provided `Makefile`:

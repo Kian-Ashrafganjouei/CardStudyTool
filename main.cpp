@@ -5,6 +5,7 @@
 #include <nlohmann/json.hpp> // Include nlohmann json library. Make sure you have it in your project.
 #include <random>
 #include <algorithm>
+#include <limits>
 
 using json = nlohmann::json;
 
@@ -89,18 +90,19 @@ int main() {
     while (true) {
         // Select a flashcard
         Flashcard& card = selectFlashcard(flashcards);
-        
-        std::cout << "\nQuestion: " << card.question << std::endl;
-        std::cout << "(Press Enter to see the answer)";
+
+        std::cout << "\n\033[1;34mQuestion: \033[0m" << card.question << std::endl;
+        std::cout << "\033[1;33m(Press Enter to see the answer)\033[0m";
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-        
-        std::cout << "Answer: " << card.answer << std::endl;
-        
-        std::cout << "How did you do? (e = easy +3, h = hard +1, w = wrong 0, q = quit): ";
+
+        std::cout << "\033[1;32mAnswer: " << card.answer << "\033[0m" << std::endl;
+
+        std::cout << "\033[1;33mHow did you do? (e = easy +3, h = hard +1, w = wrong 0, \033[1;31mq = quit\033[1;33m): \033[0m";
         std::cin >> userInput;
         std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-        
+
         if (userInput == 'q') {
+            std::cout << "\033[1;31mThanks for studying! Your progress has been saved.\033[0m" << std::endl;
             break;
         } else if (userInput == 'e') {
             card.score += 3;
@@ -109,13 +111,12 @@ int main() {
         } else if (userInput == 'w') {
             // No change to score for wrong answer
         } else {
-            std::cout << "Invalid input. Please enter 'e', 'h', 'w', or 'q'." << std::endl;
+            std::cout << "\033[1;33mInvalid input. Please enter 'e', 'h', 'w', or 'q'.\033[0m" << std::endl;
             continue;
         }
-        
+
         saveFlashcards(filename, flashcards);
     }
-    
-    std::cout << "Thanks for studying! Your progress has been saved." << std::endl;
+
     return 0;
 }

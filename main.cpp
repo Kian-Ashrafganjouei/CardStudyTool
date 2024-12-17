@@ -75,7 +75,7 @@ Flashcard& selectFlashcard(std::vector<Flashcard>& flashcards) {
 }
 
 int main() {
-    std::string filename = "flashcards.json";
+    std::string filename = "flashcards_1_4.json";
     
     // Load flashcards from file
     std::vector<Flashcard> flashcards = loadFlashcards(filename);

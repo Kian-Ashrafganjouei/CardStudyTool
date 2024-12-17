@@ -21,8 +21,7 @@ create_build_dir:
 clean:
 	rm -rf $(BUILD_DIR)
 
-# Move the flashcards.json file to the build directory
 move-json:
-	@cp $(SRC_DIR)/flashcards.json $(BUILD_DIR)/
+	@cp $(SRC_DIR)/*.json $(BUILD_DIR)/
 
 .PHONY: all clean create_build_dir configure build move-json

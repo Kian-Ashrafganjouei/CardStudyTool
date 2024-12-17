@@ -1,0 +1,394 @@
+{
+    "flashcards": [
+        {
+            "question": "When is a project considered 'out of control'?",
+            "answer": "A project is considered 'out of control' when you don't know where you are, where you are going, and how you will get there.",
+            "score": 0
+        },
+        {
+            "question": "What is the key difference between an amateur and a professional in project management?",
+            "answer": "An amateur is driven by ego, while a professional is driven by interest.",
+            "score": 0
+        },
+        {
+            "question": "What is an organization, and how does its structure influence goals and operations?",
+            "answer": "An organization is a collective of individuals and resources working collaboratively within a structure, guided by leadership and shared culture to achieve mutually agreed-upon goals.",
+            "score": 0
+        },
+        {
+            "question": "What are the key components of an organizational system?",
+            "answer": "The key components are Governance, People, Process, and Technology.",
+            "score": 0
+        },
+        {
+            "question": "What are the primary purposes of meetings?",
+            "answer": "The primary purposes are to inform, make decisions, and assign responsibility.",
+            "score": 0
+        },
+        {
+            "question": "What do we mean by quality in an organization?",
+            "answer": "Quality is ensured through Quality Control (defect detection), Quality Assurance (defect prevention), Project Auditing (process inspection), and System Auditing (evaluation of practices and controls).",
+            "score": 0
+        },
+        {
+            "question": "What is the Magic Triangle in decision-making?",
+            "answer": "The Magic Triangle includes Business Sense (maximize value), Legal Sense (compliance), and Ethical Sense (moral principles and societal impact).",
+            "score": 0
+        },
+        {
+            "question": "What key questions do leaders ask to evaluate performance?",
+            "answer": "Leaders ask: Are we doing the right thing? Are we doing them right? Are we getting them done? Are we getting value from them?",
+            "score": 0
+        },
+        {
+            "question": "What does evidence-based management mean?",
+            "answer": "Evidence-based management involves applying concrete evidence to management practices for data-driven decisions.",
+            "score": 0
+        },
+        {
+            "question": "What does the value function from prospect theory suggest?",
+            "answer": "It suggests people are much more sensitive to pain than gain, even when the outcomes have the same value.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between Homo Economicus and Homo Sapiens?",
+            "answer": "Homo Economicus makes rational, utility-maximizing decisions with absolute preferences, while Homo Sapiens has relative preferences that shift based on comparisons and context.",
+            "score": 0
+        },
+        {
+            "question": "What are cognitive biases, and how do they influence decision-making?",
+            "answer": "Cognitive biases are deviations from rational judgment, creating subjective realities, leading to perceptual distortions, and influencing decisions beyond cost-benefit analysis.",
+            "score": 0
+        },
+        {
+            "question": "What factors influence decision-making beyond rational analysis?",
+            "answer": "Decision-making is influenced by emotions, cognition, behavior, and spirituality.",
+            "score": 0
+        },
+        {
+            "question": "Why is decision-making not solely based on cost-benefit analysis?",
+            "answer": "Decision-making is influenced by biases, emotions, subjective realities, and contextual factors.",
+            "score": 0
+        },
+        {
+            "question": "What are some examples of cognitive biases and their definitions?",
+            "answer": "1. **Action Bias**: The tendency to favor action over inaction, even when there is no evidence that it will lead to a better outcome.\n2. **Base Rate Fallacy**: The tendency to assign greater importance to specific information while ignoring base rate statistical data.\n3. **Choice Overload**: The tendency to feel overwhelmed when presented with too many options to choose from.\n4. **Disposition Effect**: The tendency to prematurely sell winning assets while holding on to losing assets in hopes of gains.\n5. **Google Effect**: The tendency not to commit information to memory because it is easily accessible online.",
+            "score": 0
+        },
+        {
+            "question": "What is Confirmation Bias?",
+            "answer": "Confirmation Bias is the tendency to search for, interpret, or recall information that confirms preexisting beliefs.",
+            "score": 0
+        },
+        {
+            "question": "What is Anchoring Bias?",
+            "answer": "Anchoring Bias is the tendency to rely too heavily on the first piece of information encountered when making decisions.",
+            "score": 0
+        },
+        {
+            "question": "What is the Availability Heuristic?",
+            "answer": "The Availability Heuristic is the tendency to overestimate the importance of information that is most readily available.",
+            "score": 0
+        },
+        {
+            "question": "What is Hindsight Bias?",
+            "answer": "Hindsight Bias is the belief that past events were predictable after they have already happened.",
+            "score": 0
+        },
+        {
+            "question": "What is the Framing Effect?",
+            "answer": "The Framing Effect occurs when decisions are influenced by the way information is presented, e.g., '10% risk of failure' vs. '90% chance of success.'",
+            "score": 0
+        },
+        {
+            "question": "What is a project?",
+            "answer": "A project is a temporary endeavor undertaken to create a unique product, service, or result. It is a planned undertaking with a clear life cycle and serves as the building blocks in the design and execution of organizational strategies.",
+            "score": 0
+        },
+        {
+            "question": "How do we judge a project's success?",
+            "answer": "We judge a project based on its outcome (e.g., the final grade on a paper), not on the output (e.g., the paper itself).",
+            "score": 0
+        },
+        {
+            "question": "What are the key project objectives and trade-offs?",
+            "answer": "The key objectives include:\n1. **Performance**: Content and Quality.\n2. **Time**: By when and how long.\n3. **Cost**: Counted and hidden costs.",
+            "score": 0
+        },
+        {
+            "question": "What is the balance in project management between scope, quality, budget, and time?",
+            "answer": "The balance is managed through resource management, human communication, and decision-making processes.",
+            "score": 0
+        },
+        {
+            "question": "Why do projects fail?",
+            "answer": "Projects fail due to:\n1. Inadequate attention to human factors.\n2. Unclear objectives.\n3. Lack of planning.\n4. Unrealistic expectations.\n5. Unrealistic time frames.\n6. Lack of resources.",
+            "score": 0
+        },
+        {
+            "question": "What is the Project Management Institute (PMI)?",
+            "answer": "The PMI is an association that brings together project management professionals and systematically captures project management knowledge. It publishes the Project Management Body of Knowledge (PMBOK).",
+            "score": 0
+        },
+        {
+            "question": "What is a Project Management Office (PMO)?",
+            "answer": "A PMO is responsible for the centralized and coordinated management of projects under its domain. It provides project management support, and its structure and function depend on the organization's needs.",
+            "score": 0
+        },
+        {
+            "question": "What are the key principles of project management?",
+            "answer": "The key principles include:\n1. Stewardship: Be diligent, respectful, and caring.\n2. Team: Build a culture of accountability and respect.\n3. Stakeholders: Engage them.\n4. Value: Focus on value.\n5. System Thinking: Recognize and respond to system interactions.\n6. Leadership: Motivate, influence, coach, and learn.\n7. Tailoring: Tailor delivery approach based on context.\n8. Quality: Build quality into processes and deliverables.\n9. Navigate Complexity: Address complexity using knowledge and experience.\n10. Adaptability and Resilience.\n11. Change Enablers: Enable change to achieve the envisioned future state.",
+            "score": 0
+        },
+        {
+            "question": "What is the methodology selection process in project management?",
+            "answer": "The methodology selection process involves:\n1. Determining the key considerations of the project and environment.\n2. Analyzing the key characteristics of the methodology.\n3. Identifying key factors enabling the adoption of the methodology.\n4. Developing a strategy for the adoption of the methodology.",
+            "score": 0
+        },
+        {
+            "question": "What are the key criteria for selecting a project management methodology?",
+            "answer": "The key criteria include:\n1. **Intrinsic Complexity**: Theoretical base level, documentation quality, execution tools, and training services.\n2. **Industry Adoption Level**: Industry experience, track record, and adoption.\n3. **Internal Environment**: Change management history, learning capabilities, risk management, and strategic plans.\n4. **Project Objectives**: Stakeholder complexity, top management support, innovation level, constraints, and political challenges.\n5. **Project Manager's Profile**: Technical expertise, experience, personality, and degree of influence.",
+            "score": 0
+        },
+        {
+            "question": "What are the three key roles in Scrum?",
+            "answer": "The three key roles in Scrum are:\n1. **Product Owner**: Focuses on the vision, value, and priorities.\n2. **Scrum Master**: Ensures the process is followed and facilitates Scrum practices.\n3. **Development Team**: A cross-functional, self-organized team that designs, builds, tests, and delivers the product.",
+            "score": 0
+        },
+        {
+            "question": "What are the responsibilities of the Product Owner in Scrum?",
+            "answer": "The Product Owner:\n1. Presents a clear vision of the project.\n2. Ensures the most valuable work is prioritized and done.\n3. Asks 'Are we doing the right things?' and 'Are we adding value by doing them?'",
+            "score": 0
+        },
+        {
+            "question": "What is the role of the Scrum Master?",
+            "answer": "The Scrum Master:\n1. Ensures the Scrum process is followed.\n2. Facilitates the team (not a controller).\n3. Oversees the implementation of Scrum practices.\n4. Focuses on 'Are we doing them right?' and 'Are we getting them done?'",
+            "score": 0
+        },
+        {
+            "question": "Who makes up the Development Team in Scrum?",
+            "answer": "The Development Team consists of a cross-functional, self-organized group that:\n1. Designs, architects, builds, tests, and handles UI.\n2. Is small in size but can self-organize into smaller teams.\n3. May include release managers.",
+            "score": 0
+        },
+        {
+            "question": "Who are the stakeholders in a Scrum project?",
+            "answer": "The stakeholders include:\n1. **Payer**: The person who funds the project.\n2. **Chooser**: The decision-maker for the product.\n3. **User**: The person who uses the product in their daily lives.",
+            "score": 0
+        },
+        {
+            "question": "What are the key activities in a Scrum project?",
+            "answer": "Key activities include:\n1. Product Owner defines the vision.\n2. Grooming: Breaking features into a prioritized backlog.\n3. Sprint Planning, Execution, Review, and Retrospective.\n4. Daily Scrum: A short meeting to track progress and blockers.",
+            "score": 0
+        },
+        {
+            "question": "What is the product backlog?",
+            "answer": "The product backlog is a prioritized list of features and tasks created by the team, where the most valuable work is completed first. Value is coordinated with risk.",
+            "score": 0
+        },
+        {
+            "question": "What are Sprints in Scrum?",
+            "answer": "Sprints are time-boxed iterations with fixed start and end dates where:\n1. A subset of backlog items is completed.\n2. No goal-altering scope changes are allowed.\n3. A new sprint starts immediately after the current one ends.",
+            "score": 0
+        },
+        {
+            "question": "What happens during Sprint Planning?",
+            "answer": "During Sprint Planning:\n1. The Product Owner and Development Team agree on a sprint goal.\n2. The team reviews the backlog and selects the highest-priority items to work on.\n3. Features are broken into tasks, ensuring team capacity is not exceeded.",
+            "score": 0
+        },
+        {
+            "question": "What is Sprint Execution?",
+            "answer": "Sprint Execution is when the Development Team, guided by the Scrum Master, completes tasks. The team decides the order of work, and no one tells them how to do it.",
+            "score": 0
+        },
+        {
+            "question": "What is the purpose of the Daily Scrum?",
+            "answer": "The Daily Scrum is a 15-minute meeting to:\n1. Understand what is happening.\n2. Identify blockers.\n3. Answer:\n   - What did I do yesterday?\n   - What will I do today?\n   - What are the blockers?",
+            "score": 0
+        },
+        {
+            "question": "What does 'Done' mean in Scrum?",
+            "answer": "Done means a clear definition of what constitutes a complete slice of work. A potentially shippable product is delivered with confidence that nothing more is needed.",
+            "score": 0
+        },
+        {
+            "question": "What happens during a Sprint Review?",
+            "answer": "A Sprint Review occurs at the sprint's conclusion and:\n1. Focuses on product inspection and adaptation.\n2. Involves non-sprint team members and stakeholders.\n3. Updates stakeholders on progress and allows input to influence product direction.",
+            "score": 0
+        },
+        {
+            "question": "What is the focus of the Sprint Retrospective?",
+            "answer": "The Sprint Retrospective focuses on **process improvement**. The team discusses:\n1. Experiences during the sprint.\n2. Actionable steps to improve processes for the next sprint.\n3. It involves the Product Owner, Scrum Master, and Development Team.",
+            "score": 0
+        },
+        {
+            "question": "What is plan-driven development?",
+            "answer": "Plan-driven development is a process where you finish one phase (e.g., requirements gathering, design, coding) before starting another. It works well for simple projects.",
+            "score": 0
+        },
+        {
+            "question": "What are the challenges of variability and uncertainty in waterfall development?",
+            "answer": "In waterfall development, all analysis must be done correctly upfront because mistakes cannot be easily corrected later. Iterative and incremental development works better for variability and uncertainty.",
+            "score": 0
+        },
+        {
+            "question": "How does iterative and incremental development handle variability?",
+            "answer": "Iterative development repeats over multiple cycles, allowing learning from mistakes. Each sprint delivers a potentially shippable product, focusing on features rather than phases to polish and improve with each iteration.",
+            "score": 0
+        },
+        {
+            "question": "What are the key principles of leveraging variability in development?",
+            "answer": "The principles include:\n1. **Inspection**: Examine the product and process.\n2. **Adaptation**: Act and change based on inspection results.\n3. **Transparency**: Ensure all available information is accessible to support inspection and adaptation.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between Plan-Driven and Scrum processes?",
+            "answer": "Plan-Driven processes complete each phase sequentially, while Scrum focuses on iterative cycles (sprints) to deliver features incrementally, enabling feedback and adaptation.",
+            "score": 0
+        },
+        {
+            "question": "How can uncertainty in projects be reduced?",
+            "answer": "Uncertainty can be reduced by:\n1. **End uncertainty**: Clarify features of the final product.\n2. **Means uncertainty**: Identify processes and technologies for development.\n3. Engage the customer by building a feature, showing it to them, and getting feedback.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between Agile and Scrum?",
+            "answer": "1. **Agile**: A broad mindset and philosophy for project management, focusing on iterative development, flexibility, and customer collaboration.\n2. **Scrum**: A specific framework under Agile, with defined roles (Scrum Master, Product Owner, Development Team), fixed sprints, and specific events (e.g., standups, sprint reviews).",
+            "score": 0
+        },
+        {
+            "question": "What is validated learning?",
+            "answer": "Validated learning leverages multiple concurrent learning loops: Assume -> Build -> Feedback -> Inspect -> Adapt -> Assume.",
+            "score": 0
+        },
+        {
+            "question": "What is the focus on idle work versus idle workers?",
+            "answer": "Idle work is work that cannot be completed due to blockers or dependencies. Focusing on idle workers by giving them more tasks often leads to idle work, slowing down throughput and creating delays.",
+            "score": 0
+        },
+        {
+            "question": "What causes idle work, and what are its consequences?",
+            "answer": "Causes of idle work:\n1. Waiting for another piece to be finished.\n2. Work sitting idle because of high workloads.\nConsequences:\n- Slows down others waiting for completion.\n- Reduces throughput and increases the cost of delay.",
+            "score": 0
+        },
+        {
+            "question": "How should progress be managed in a project?",
+            "answer": "Progress should adapt to real-time information and be replanned as necessary, with a focus on value-centric delivery.",
+            "score": 0
+        },
+        {
+            "question": "What are key principles for performance in project management?",
+            "answer": "The principles include:\n1. Go fast but never hurry.\n2. Build in quality.\n3. Employ minimally sufficient ceremony.",
+            "score": 0
+        },
+        {
+            "question": "What does 'predict and adapt' mean in project management?",
+            "answer": "Predict and adapt means:\n1. Keeping options open.\n2. Accepting that you may not get it right the first time.\n3. Balancing predictive up-front work with adaptive just-in-time work.",
+            "score": 0
+        },
+        {
+            "question": "What are the key rules of a sprint?",
+            "answer": "The key rules of a sprint include:\n1. No goal-altering changes are allowed.\n2. Use exception handling to account for changes.\n3. Agreed-upon definition of done.\n4. Success is measured by the outcome (value created), not the output.\n5. Consistent duration to improve predictability and risk management.",
+            "score": 0
+        },
+        {
+            "question": "How should sprints be mapped to the calendar year?",
+            "answer": "Sprints should be mapped to the calendar year to account for low-capacity weeks, such as putting less work in Thanksgiving week.",
+            "score": 0
+        },
+        {
+            "question": "What is the 'definition of done' in Scrum?",
+            "answer": "The 'definition of done' includes:\n1. Zero known defects.\n2. Creation of a backlog item to address defects with established risk levels.\n3. Acceptance testing done by the Product Owner as a proxy for the customer.",
+            "score": 0
+        },
+        {
+            "question": "What does timeboxing mean in the context of sprints?",
+            "answer": "Timeboxing refers to a specific time frame with a start and end date during which the team only works on items they believe can be completed. It prioritizes maximum value and high-risk items to improve predictability.",
+            "score": 0
+        },
+        {
+            "question": "Why should sprints have short durations?",
+            "answer": "Short sprints are beneficial because:\n1. They make planning and predicting outputs easier.\n2. They allow for fast feedback and frequent checkpoints.\n3. If a sprint fails, only a short time is lost.\n4. They improve reaction time to changes in the environment.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between a change and a clarification during a sprint?",
+            "answer": "1. **Change**: An alteration in work or resources that can cause waste, disrupt flow, or substantially increase scope.\n2. **Clarification**: Additional details provided to help the team achieve the sprint goal without altering its scope.",
+            "score": 0
+        },
+        {
+            "question": "What role does the Product Owner play in managing changes during a sprint?",
+            "answer": "The Product Owner ensures no goal-altering changes occur during the sprint. They provide clarifications when needed but prevent disruptive changes.",
+            "score": 0
+        },
+        {
+            "question": "How is risk managed during a sprint?",
+            "answer": "Risk is managed by assessing:\n1. **Criticality**: The importance of the risk.\n2. **Probability**: The likelihood of occurrence.\n3. **Severity**: The impact if the risk is realized.\nRisks should be addressed in earlier sprints whenever possible.",
+            "score": 0
+        },
+        {
+            "question": "How do sprints help improve predictability?",
+            "answer": "Sprints with consistent durations and timeboxing improve predictability by establishing regularity, helping teams measure capacity, and managing risks effectively.",
+            "score": 0
+        },
+        {
+            "question": "How is success measured in a sprint?",
+            "answer": "Success in a sprint is measured by the **outcome** (the value created by the product) rather than the **output** (the product itself).",
+            "score": 0
+        },
+        {
+            "question": "What is the purpose of a requirements specification?",
+            "answer": "The purpose of a requirements specification is to communicate the requirements clearly to developers. It breaks down the work into Epics > Features > Stories > Individual Tasks.",
+            "score": 0
+        },
+        {
+            "question": "What are user stories, and why are they important?",
+            "answer": "User stories are a convenient format for expressing desired business value for backlog items. They are understood by both business and technical people and can describe functional or non-functional requirements.",
+            "score": 0
+        },
+        {
+            "question": "What are the three key components of a user story?",
+            "answer": "The three key components of a user story are:\n1. **Card**: Describes the user role, their goal, and placeholder details.\n2. **Conversation**: Ongoing discussions to refine details, sometimes leading to UI sketches.\n3. **Confirmation**: Conditions of satisfaction verified through acceptance tests.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between Epics, Features, and Stories?",
+            "answer": "1. **Epics**: Very large stories that span months or several releases, describing needs at a high abstraction level.\n2. **Features/Themes**: Large stories spanning more than one sprint, providing more detail and often part of an Epic.\n3. **Stories**: Smaller, independent, and implementable units of work that can fit within a sprint.",
+            "score": 0
+        },
+        {
+            "question": "What qualities make a good user story?",
+            "answer": "A good user story should be:\n1. Independent of other stories.\n2. Valuable to the customer.\n3. Estimable for effort.\n4. Sized appropriately for a sprint.\n5. Testable to ensure completion.",
+            "score": 0
+        },
+        {
+            "question": "What are non-functional requirements, and how are they handled?",
+            "answer": "Non-functional requirements are system-level constraints, such as performance or security. They are often written as user stories and included in the 'Definition of Done'. If placed in a story, they are addressed in a sprint and continually in ongoing sprints.",
+            "score": 0
+        },
+        {
+            "question": "What are knowledge acquisition stories?",
+            "answer": "Knowledge acquisition stories involve exploring requirements through prototypes, proofs of concept, experimental tests, or studies. These help gather knowledge about UI, architecture, or technology.",
+            "score": 0
+        },
+        {
+            "question": "What are the key inputs for gathering requirements?",
+            "answer": "The key inputs for gathering requirements are:\n1. Users.\n2. Industry standards.\n3. Competition.\nAdditionally, users are actively involved in determining what to build and reviewing requirements.",
+            "score": 0
+        },
+        {
+            "question": "What is story mapping?",
+            "answer": "Story mapping is a technique used to visualize and organize user stories to ensure requirements are gathered, prioritized, and understood in the context of the user’s journey.",
+            "score": 0
+        },
+        {
+            "question": "How are user stories different from traditional requirement documents?",
+            "answer": "User stories are not written contracts like traditional requirement documents. They are negotiable and evolve through conversation and collaboration.",
+            "score": 0
+        },
+        {
+            "question": "What is the role of prototypes in knowledge acquisition stories?",
+            "answer": "Prototypes help explore and validate requirements by testing UI designs, architecture, or new technologies through proof of concepts and experimental tests.",
+            "score": 0
+        }
+    ]
+}

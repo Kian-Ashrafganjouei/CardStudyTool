@@ -74,8 +74,14 @@ Flashcard& selectFlashcard(std::vector<Flashcard>& flashcards) {
     return flashcards[dis(gen)];
 }
 
-int main() {
-    std::string filename = "flashcards_1_4.json";
+int main(int argc, char* argv[]) {
+    // Check for correct usage
+    if (argc < 2) {
+        std::cerr << "Usage: " << argv[0] << " <filename>" << std::endl;
+        return 1;
+    }
+
+    std::string filename = argv[1];
     
     // Load flashcards from file
     std::vector<Flashcard> flashcards = loadFlashcards(filename);

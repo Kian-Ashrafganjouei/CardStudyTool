@@ -1,0 +1,94 @@
+{
+    "flashcards": [
+        {
+            "question": "What is velocity in Scrum?",
+            "answer": "Velocity is the amount of work completed in each sprint. It measures output (the size of what was delivered) but not the outcome (the value created).",
+            "score": 0
+        },
+        {
+            "question": "What are the two main purposes of velocity in Scrum?",
+            "answer": "1. **Scrum Planning**: To estimate the number of sprints required, person-hours per task, and the number of tasks per sprint.\n2. **Diagnostic Metric**: To evaluate and improve teamwork and the Scrum process.",
+            "score": 0
+        },
+        {
+            "question": "How is velocity measured?",
+            "answer": "Velocity is measured as the amount of work per unit of time, where the unit of time is a sprint. Work is measured in either story points or ideal days.",
+            "score": 0
+        },
+        {
+            "question": "What are story points and how do they differ from ideal days?",
+            "answer": "**Story Points**: Measure effort based on complexity and size from the development team's perspective.\n**Ideal Days**: Represent the number of effort-days required to complete a story, but they do not correspond to calendar days.",
+            "score": 0
+        },
+        {
+            "question": "Why is it better to estimate PBI sizes rather than the number of PBIs?",
+            "answer": "It is better to estimate PBI sizes because:\n1. Not all PBIs have the same size.\n2. Breaking down PBIs to make them the same size is time-consuming.\n3. Stories might have to be split unnaturally to fit equal sizing.\n4. Estimating size in story points is itself an informative activity.",
+            "score": 0
+        },
+        {
+            "question": "At what level are tasks estimated, and in what units?",
+            "answer": "Tasks are estimated at the sprint backlog level and are sized in **ideal hours** (effort-hours or person-hours).",
+            "score": 0
+        },
+        {
+            "question": "Who is responsible for providing PBI estimates in Scrum?",
+            "answer": "The developers (those who will do the work) collectively provide the estimates. The Product Owner provides clarifying details, and the Scrum Master coaches the team during the estimation activity.",
+            "score": 0
+        },
+        {
+            "question": "Are estimates the same as commitments?",
+            "answer": "No, estimates are not commitments. They are realistic measures of how large a PBI is and should not be inflated due to external pressures or influences.",
+            "score": 0
+        },
+        {
+            "question": "What is the difference between accuracy and precision in the context of estimation?",
+            "answer": "**Accuracy**: How close an estimate is to the true value.\n**Precision**: How consistent repeated measurements are, even if they are far from the true value.\nEstimates should prioritize accuracy over precision to avoid wasting effort on unnecessary precision.",
+            "score": 0
+        },
+        {
+            "question": "What is relative size estimation, and why is it preferred?",
+            "answer": "Relative size estimation compares PBIs to each other rather than assigning absolute sizes. It works because people are better at estimating relative sizes than absolute sizes, leading to more practical and efficient estimation.",
+            "score": 0
+        },
+        {
+            "question": "What is Planning Poker, and how is it used for estimation?",
+            "answer": "Planning Poker is a technique for sizing PBIs. Team members each select a card with an estimate, and all cards are revealed simultaneously. If estimates differ, the team discusses and votes again until consensus is reached. It uses a modified Fibonacci sequence (1, 2, 3, 5, 8, 13, 20, 40, 100, etc.) to help with task size estimation.",
+            "score": 0
+        },
+        {
+            "question": "Why is the Fibonacci sequence used in Planning Poker?",
+            "answer": "The Fibonacci sequence grows exponentially, making it suitable for estimating large tasks with increasing uncertainty. The larger gaps between numbers (e.g., 8 to 13) account for the increasing difficulty of accurately estimating larger tasks.",
+            "score": 0
+        },
+        {
+            "question": "What are the benefits of the Planning Poker estimation process?",
+            "answer": "1. Team-based estimation is more accurate than one person estimating alone.\n2. Even if estimates are inaccurate, the process promotes valuable discussions about PBIs.\n3. It encourages participation from all team members, leading to better understanding and alignment.",
+            "score": 0
+        },
+        {
+            "question": "How can velocity be forecasted for a new team with no historical data?",
+            "answer": "For a new team, velocity can be forecasted by using historical data from other comparably staffed teams. Once the team has completed its first sprint, actual velocity is used instead of the forecast.",
+            "score": 0
+        },
+        {
+            "question": "How can a velocity range be calculated?",
+            "answer": "A velocity range is calculated by looking at past sprint performance and determining the range of story points completed. For example, 'the team usually completes between 25 and 30 story points per sprint.'",
+            "score": 0
+        },
+        {
+            "question": "How does continuous improvement affect velocity?",
+            "answer": "If the team continuously inspects and adapts its process, its velocity should increase over time. However, introducing new tools or training may initially slow velocity before it eventually improves.",
+            "score": 0
+        },
+        {
+            "question": "What happens to velocity if too much overtime is used?",
+            "answer": "Using excessive overtime may temporarily boost velocity but often leads to long-term negative consequences, such as burnout, fatigue, and reduced productivity in future sprints.",
+            "score": 0
+        },
+        {
+            "question": "What are the potential misuses of velocity in Scrum?",
+            "answer": "Misuses of velocity include:\n1. Using it as a performance metric to judge team productivity.\n2. Encouraging 'gaming the system,' where teams inflate points or cut corners to increase velocity.\n3. Misinterpreting velocity as a measure of value delivered, when it only measures output, not outcome.",
+            "score": 0
+        }
+    ]
+}

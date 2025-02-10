@@ -167,7 +167,7 @@
         },
         {
             "question": "Who makes up the Development Team in Scrum?",
-            "answer": "The Development Team consists of a cross-functional, self-organized group that:\n1. Designs, architects, builds, tests, and handles UI.\n2. Is small in size but can self-organize into smaller teams.\n3. May include release managers.",
+            "answer": "The Development Product OwnerTeam consists of a cross-functional, self-organized group that:\n1. Designs, architects, builds, tests, and handles UI.\n2. Is small in size but can self-organize into smaller teams.\n3. May include release managers.",
             "score": 0
         },
         {

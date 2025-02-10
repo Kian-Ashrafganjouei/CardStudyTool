@@ -1,0 +1,121 @@
+{
+    "flashcards": [
+      {
+        "question": "How are demand, supply, and price related?",
+        "answer": "If demand rises, price rises. If demand lowers, price lowers. If supply rises, price lowers. If supply lowers, price rises."
+      },
+      {
+        "question": "What is a market?",
+        "answer": "A group of sellers and buyers who trade in a particular good."
+      },
+      {
+        "question": "What is a competitive market?",
+        "answer": "A competitive market is one in which a large number of fully informed, price-taking buyers and sellers easily trade a standardized good or service."
+      },
+      {
+        "question": "What is a price taker?",
+        "answer": "In economics, a buyer or seller who cannot affect the market price is called a price taker."
+      },
+      {
+        "question": "What are the Four Characteristics of Perfectly Competitive Markets?",
+        "answer": "1. Participants are price takers.\n2. Standardized good.\n3. Full information.\n4. No transaction costs."
+      },
+      {
+        "question": "What is quantity demanded?",
+        "answer": "The quantity demanded is the amount of the good or service that buyers in a market will purchase at a given price during a specified period."
+      },
+      {
+        "question": "What is the law of demand?",
+        "answer": "All else equal, quantity demanded increases as price decreases (and vice versa)."
+      },
+      {
+        "question": "What is the demand curve?",
+        "answer": "A graph that shows the quantity of a good or service consumers will demand at various prices. Quantity is on the X-axis, and Price is on the Y-axis."
+      },
+      {
+        "question": "What is the demand schedule?",
+        "answer": "A table that shows the quantity of a good demanded at various prices."
+      },
+      {
+        "question": "What is a leapfrog technology?",
+        "answer": "Countries that have not invested heavily in older technology can jump straight to the newer one."
+      },
+      {
+        "question": "What is a non-price determinant?",
+        "answer": "A factor that shifts the demand curve. The five non-price determinants are: Consumer preferences, Prices of related goods, Incomes, Expectations of future price, Number of buyers."
+      },
+      {
+        "question": "Why do non-price determinants shift the demand curve?",
+        "answer": "Non-price determinants influence consumers' willingness to buy a good at any given price, causing the entire demand curve to shift left (decrease in demand) or right (increase in demand)."
+      },
+      {
+        "question": "How do expectations of future price affect demand?",
+        "answer": "If consumers expect prices to rise in the future, demand increases now. If they expect prices to fall, demand decreases now."
+      },
+      {
+        "question": "What are consumer preferences?",
+        "answer": "Personal likes and dislikes that influence purchasing decisions. Some are constant; others change over time."
+      },
+      {
+        "question": "What are related goods?",
+        "answer": "Two kinds: Substitutes (goods that replace each other) and Complements (goods consumed together)."
+      },
+      {
+        "question": "What are normal and inferior goods?",
+        "answer": "Normal goods: Demand increases as income rises. Inferior goods: Demand decreases as income rises."
+      },
+      {
+        "question": "What are changes in expectations?",
+        "answer": "If consumers expect future prices to rise, demand increases now. If they expect prices to fall, demand decreases."
+      },
+      {
+        "question": "What are changes in the number of buyers?",
+        "answer": "More buyers increase demand; fewer buyers decrease demand."
+      },
+      {
+        "question": "What are shifts in the demand curve?",
+        "answer": "Changes in non-price determinants shift the demand curve left or right. Changes in price cause movement along the curve."
+      },
+      {
+        "question": "What is supply?",
+        "answer": "The amount of a good or service producers will offer at a given price."
+      },
+      {
+        "question": "What is the law of supply?",
+        "answer": "All else equal, quantity supplied increases as price increases (and vice versa)."
+      },
+      {
+        "question": "What is the supply curve?",
+        "answer": "A graph showing the quantity that producers are willing to sell at each price."
+      },
+      {
+        "question": "Why do non-price determinants shift the supply curve?",
+        "answer": "Non-price determinants, such as input costs, technology, and producer expectations, influence production decisions, shifting the entire supply curve left (decrease in supply) or right (increase in supply)."
+      },
+      {
+        "question": "What are shifts in the supply curve?",
+        "answer": "Changes in non-price determinants shift the supply curve. Changes in price cause movement along the curve."
+      },
+      {
+        "question": "What is market equilibrium?",
+        "answer": "When quantity demanded equals quantity supplied. The equilibrium price is the market-clearing price."
+      },
+      {
+        "question": "What is the difference between demand and quantity demanded?",
+        "answer": "Quantity demanded refers to a point on the demand curve due to price changes. Demand refers to the entire curve and changes due to other factors."
+      },
+      {
+        "question": "How can we predict price and quantity when demand and supply curves shift?",
+        "answer": "If supply and demand move in opposite directions, price direction is predictable, but quantity is not. If they move in the same direction, quantity is predictable, but price is not."
+      },
+      {
+        "question": "What are the non-price determinents of demand?",
+        "answer": "1. Consumer preferences\n2. Price of related goods\n3. Incomes\n4. Expectations of future price\n5. Number of buyers"
+      },
+      {
+        "question": "What are the non-price determinents of supply?",
+        "answer": "1. Price of related goods\n2. Technology\n3. Prices of inputs\n4. Producer Expectations\n5. Number of sellers"
+      }
+    ]
+  }
+  

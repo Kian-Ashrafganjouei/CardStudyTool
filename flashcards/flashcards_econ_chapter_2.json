@@ -1,0 +1,104 @@
+{
+    "flashcards": [
+        {
+            "question": "What is the most basic economic question?",
+            "answer": "How can we get the most out of available resources?",
+            "score": 0
+        },
+        {
+            "question": "What is specialization?",
+            "answer": "Countries and firms specialize when they put all their resources into making the goods for which they have the lowest opportunity cost. When they specialize and trade, total output increases, leading to gains from trade.",
+            "score": 0
+        },
+        {
+            "question": "What is a Production Possibility Frontier (PPF)?",
+            "answer": "Shows all possible combinations of outputs that can be produced using all available resources. Being on the frontier means resources are fully optimized.",
+            "score": 0
+        },
+        {
+            "question": "What kind of line does constant opportunity cost produce?",
+            "answer": "A straight downward-sloping line.",
+            "score": 0
+        },
+        {
+            "question": "What does an increasing opportunity cost represent?",
+            "answer": "Producing more of one good requires giving up increasingly larger amounts of another good because resources are not equally efficient in producing all goods.",
+            "score": 0
+        },
+        {
+            "question": "As you approach X axis on the PPF curve, does the opportunity cost of the item in X axis rise or fall?",
+            "answer": "Rise. The slope represents opportunity cost, and as more of something is produced, its opportunity cost increases.",
+            "score": 0
+        },
+        {
+            "question": "How does the PPF change when we change resources (e.g., double population)?",
+            "answer": "Production possibility also doubles. The new line has the same slope as the old one.",
+            "score": 0
+        },
+        {
+            "question": "How does the PPF change when technology improves?",
+            "answer": "The frontier shifts/rotates outward. If the change impacts only one good, the slope changes.",
+            "score": 0
+        },
+        {
+            "question": "What is absolute advantage?",
+            "answer": "Given the same number of resources, but different circumstances or technology, one country can produce more of something than another.",
+            "score": 0
+        },
+        {
+            "question": "What is comparative advantage?",
+            "answer": "A producer has a comparative advantage in making a good if they can do so at a lower opportunity cost than others.",
+            "score": 0
+        },
+        {
+            "question": "In the context of PPF, what does the inverse of the opportunity cost of one item represent?",
+            "answer": "The opportunity cost of item A is the inverse of the opportunity cost of item B, meaning each country will have a comparative advantage in producing one item.",
+            "score": 0
+        },
+        {
+            "question": "Why trade?",
+            "answer": "Specialization and trade allow countries to exploit their comparative advantage, leading to overall economic gains. Adam Smith referred to this as the 'Invisible Hand.'",
+            "score": 0
+        },
+        {
+            "question": "Which fundamental economic question does the PPF answer?",
+            "answer": "What are the wants and constraints of those involved?",
+            "score": 0
+        },
+        {
+            "question": "In PPF, what does the slope represent?",
+            "answer": "The slope represents the opportunity cost of the X-axis good in terms of the Y-axis good.",
+            "score": 0
+        },
+        {
+            "question": "What do firms and countries specialize in making?",
+            "answer": "The goods for which they have the lowest opportunity cost.",
+            "score": 0
+        },
+        {
+            "question": "What is the cost range for a product in trade?",
+            "answer": "The price of trade must fall between the opportunity costs of the trading countries for both to benefit.",
+            "score": 0
+        },
+        {
+            "question": "In PPF, what are efficient and inefficient points?",
+            "answer": "Efficient points are on the PPF line; inefficient points are inside the PPF line.",
+            "score": 0
+        },
+        {
+            "question": "Why is losing comparative advantage not always a bad thing?",
+            "answer": "- Losing in one area means gaining in another.\n- High-wage jobs replace low-wage jobs.\n- Specialization leads to higher efficiency in advanced industries.",
+            "score": 0
+        },
+        {
+            "question": "What is the Invisible Hand?",
+            "answer": "The concept that individuals and firms seeking profit, when operating in competitive markets, naturally lead to an efficient allocation of resources. Coined by Adam Smith.",
+            "score": 0
+        },
+        {
+            "question": "What is a concave or convex curve in the context of PPF?",
+            "answer": "A concave curve bends inward, while a convex curve bends outward. The PPF is convex due to increasing opportunity costs.",
+            "score": 0
+        }
+    ]
+}

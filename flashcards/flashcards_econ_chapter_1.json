@@ -1,0 +1,99 @@
+{
+    "flashcards": [
+        {
+            "question": "Give Examples of Resources",
+            "answer": "Physical: Land, machinery, number of workers. Intangible: time, ideas, technology, experience.",
+            "score": 0
+        },
+        {
+            "question": "What is Economics?",
+            "answer": "The study of how people manage resources.",
+            "score": 0
+        },
+        {
+            "question": "What is Microeconomics?",
+            "answer": "The study of how individuals, firms, governments, and other organizations manage resources.",
+            "score": 0
+        },
+        {
+            "question": "What is Macroeconomics?",
+            "answer": "The study of the economy on a regional, national, or international scale.",
+            "score": 0
+        },
+        {
+            "question": "What is correlation?",
+            "answer": "Events that either move in the same direction (positive), opposite direction (negative), or no relevant direction (uncorrelated).",
+            "score": 0
+        },
+        {
+            "question": "What is causation?",
+            "answer": "One event brings about another. Correlation and causation can be confused in three major ways:\n- Correlation without causation\n- Omitted variables\n- Reverse causation",
+            "score": 0
+        },
+        {
+            "question": "What are the four key questions in economic decision-making?",
+            "answer": "1. What are the wants and constraints of those involved? (Scarcity)\n2. What are the trade-offs? (Opportunity cost)\n3. How will others respond? (Incentives)\n4. Are resources allocated in the best way possible? (Efficiency)",
+            "score": 0
+        },
+        {
+            "question": "What is scarcity?",
+            "answer": "Scarcity is the condition of wanting more than we can get with available resources.",
+            "score": 0
+        },
+        {
+            "question": "What is marginal decision-making and sunk cost?",
+            "answer": "Marginal decision-making involves comparing additional benefits and costs of an action. Sunk costs are costs that have already been paid and should not influence future decisions.",
+            "score": 0
+        },
+        {
+            "question": "What is a model?",
+            "answer": "A model is a simplified representation of a complicated situation.",
+            "score": 0
+        },
+        {
+            "question": "What do households provide?",
+            "answer": "Households provide land, labor, and capital.",
+            "score": 0
+        },
+        {
+            "question": "What do firms provide?",
+            "answer": "Firms produce goods and services.",
+            "score": 0
+        },
+        {
+            "question": "What is an incentive?",
+            "answer": "An incentive is something that influences people's choices by altering the costs or benefits associated with different options. Incentives can be positive (rewards) or negative (penalties).",
+            "score": 0
+        },
+        {
+            "question": "What is efficiency?",
+            "answer": "Efficiency is a situation in which resources are used in the most productive way possible to produce goods and services that have the greatest total economic value to society.",
+            "score": 0
+        },
+        {
+            "question": "Why isn’t a product already on the market?",
+            "answer": "1. **Innovation**: The idea is genuinely new.\n2. **Market failure**: Additional costs prevent people from taking advantage of an opportunity.\n3. **Intervention**: Government regulations change market incentives.\n4. **Unprofitability**: The product may not generate enough profit.",
+            "score": 0
+        },
+        {
+            "question": "What are the features of a good model?",
+            "answer": "1. Predicts cause and effect.\n2. Makes clear assumptions.\n3. Describes the real world accurately.",
+            "score": 0
+        },
+        {
+            "question": "What are positive and normative statements?",
+            "answer": "**Positive statements** describe how the world actually works and are factual.\n**Normative statements** describe how the world should be and involve opinions or value judgments.",
+            "score": 0
+        },
+        {
+            "question": "How do constraints impact decision-making?",
+            "answer": "Constraints narrow options, define boundaries, and shape priorities. They force individuals or teams to focus on achievable goals, encourage innovation, mitigate risks, and clarify trade-offs.",
+            "score": 0
+        },
+        {
+            "question": "What does opportunity cost represent?",
+            "answer": "Opportunity cost represents the value of the next best alternative that is foregone when a decision is made. It highlights the trade-offs involved in choosing one option over another.",
+            "score": 0
+        }
+    ]
+}

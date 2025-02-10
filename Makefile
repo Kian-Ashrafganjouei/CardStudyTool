@@ -22,6 +22,6 @@ clean:
 	rm -rf $(BUILD_DIR)
 
 move-json:
-	@cp $(SRC_DIR)/*.json $(BUILD_DIR)/
+	@cp $(SRC_DIR)/flashcards/*.json $(BUILD_DIR)/
 
 .PHONY: all clean create_build_dir configure build move-json
